@@ -1,1 +1,1 @@
-Texto
+scripts_amamani
